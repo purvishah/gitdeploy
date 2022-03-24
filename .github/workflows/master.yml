@@ -17,4 +17,4 @@ jobs:
         server: snvsamaj.in
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /snvsamaj.in/public_html/git_live
+        server-dir: /public_html/git_live
